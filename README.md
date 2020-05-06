@@ -15,15 +15,15 @@ Text Generation RNN python notebooks, trained on Shakespeare and "To Bleach a Pi
     
 ## Example output (To Bleach a Pigeon):
 
- Cherry: Oh. Right, my bad. The doves will make up for it.
- Beat. BIANCA begill hith and Alvin provided a better
-  family for him than I could ever have. I was thinking in there, and I was thinking about
-who signs the birth certificate, isn’t it?
-CLARENCE: Bianca?
-290 RACHEL: How long have you been here for?
-BIANCA: What?
-RACHEL: How could I not notice, Ken?
-BIANCA: Notice what?
-RACHEL, to BIANCA: That your father slept with my sister.
+      Cherry: Oh. Right, my bad. The doves will make up for it.
+     Beat. BIANCA begill hith and Alvin provided a better
+     family for him than I could ever have. I was thinking in there, and I was thinking about
+       who signs the birth certificate, isn’t it?
+    CLARENCE: Bianca?
+    290 RACHEL: How long have you been here for?
+    BIANCA: What?
+    RACHEL: How could I not notice, Ken?
+    BIANCA: Notice what?
+    RACHEL, to BIANCA: That your father slept with my sister.
     
 ### Check out the python notebooks for details!
